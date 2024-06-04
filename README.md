@@ -1,0 +1,2 @@
+# 202406PyRATES
+202406 PyRATES workshop
